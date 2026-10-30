@@ -234,4 +234,4 @@ NoMachine is offered as a complete free version with all features and updates in
 Unlock the full potential of remote access with NoMachine today! [Download NoMachine Free](https://www.softyne.com/nomachine) and start controlling your computers from anywhere with ease!
 
 ---
-**Last updated:** 2026-10-30 16:26:32 UTC
+**Last updated:** 2026-10-30 21:17:57 UTC
